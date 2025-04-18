@@ -2,6 +2,12 @@
 This Power BI project explores the sales data of Classic Models, a scale automobile company. The dashboard presents dynamic and in
 teractive visuals to understand the performance across product lines, sales trends, customer insights, and profitability. The aim is to drive data-driven decisions using an intuitive, business-friendly interface.
 
+## 📁 Dataset
+Source: Classic Models sample dataset (fictional business dataset)
+https://www.kaggle.com/datasets/martatavares/classicmodels
+
+Structure: Includes product details, customer information, order status, sales, employee data, Customers, Products, ProductLines, Orders, OrderDetails, Payments, Employees and Offices
+
 ![Screenshot 2025-04-18 133703](https://github.com/user-attachments/assets/6650d856-dd65-4bdf-a100-0ce904d8faeb)
 
 ## 🔧 Tools and Techniques Used
@@ -81,10 +87,6 @@ teractive visuals to understand the performance across product lines, sales tren
 
   ![Screenshot 2025-04-18 134124](https://github.com/user-attachments/assets/22bd2c42-c3e3-41d1-acbc-e872e0a26b71)
 
-## 📁 Dataset
-Source: Classic Models sample dataset (fictional business dataset)
-
-Structure: Includes product details, customer information, order status, sales, and employee data.
 
 ## ✅ Outcomes
 Provided end-to-end business insight.
